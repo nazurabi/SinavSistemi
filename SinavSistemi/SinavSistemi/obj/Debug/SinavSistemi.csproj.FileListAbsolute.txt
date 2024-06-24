@@ -1,0 +1,7 @@
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.exe.config
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.exe
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.pdb
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.AssemblyReference.cache
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.CoreCompileInputs.cache
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.exe
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.pdb
